@@ -58,7 +58,7 @@ message Purchase {
 }
 
 enum Mode {
-    UNKNOWN = 0;
+    UNKNOWN_MODE = 0;
     FREE_FOR_ALL = 1;
     COLOUR_MARKET = 2;
     RADICAL_COLOUR_MARKET = 3;
