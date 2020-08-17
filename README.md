@@ -31,6 +31,6 @@ Build
 
     ./build.sh --go_out=<go-output>
 
-    ./build.sh --javalite_out=<java-output>
+    ./build.sh --java_out=lite:<java-output>
 
     ./build.sh --python_out=<python-output>

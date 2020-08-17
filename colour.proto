@@ -19,7 +19,6 @@ syntax = "proto3";
 option go_package = "github.com/AletheiaWareLLC/colourgo";
 option java_outer_classname = "ColourProto";
 option java_package = "com.aletheiaware.colour";
-option optimize_for = LITE_RUNTIME;
 
 package colour;
 
