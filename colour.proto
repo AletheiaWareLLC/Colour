@@ -58,11 +58,9 @@ message Purchase {
 
 enum Mode {
     UNKNOWN_MODE = 0;
-    FREE_FOR_ALL = 1;
-    COLOUR_MARKET = 2;
-    RADICAL_COLOUR_MARKET = 3;
-    LOCATION_MARKET = 4;
-    RADICAL_LOCATION_MARKET = 5;
-    ONE_ALIAS_ONE_VOTE = 6;
-    QUADRATIC_VOTE = 7;
+    ANARCHY = 1;
+    DEMOCRACY = 2;
+    MARKET = 3;
+    RADICAL_DEMOCRACY = 4;
+    RADICAL_MARKET = 5;
 }
