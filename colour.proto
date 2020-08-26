@@ -58,7 +58,7 @@ message Purchase {
 
 enum Mode {
     UNKNOWN_MODE = 0;
-    ANARCHY = 1;
+    FREE_FOR_ALL = 1;
     DEMOCRACY = 2;
     MARKET = 3;
     RADICAL_DEMOCRACY = 4;
